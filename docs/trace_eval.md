@@ -84,7 +84,7 @@ Dán 1 đoạn trích xuất log tiêu biểu từ file `docs/trace_waterfall.js
 - [x] Đã điền API Key thật trong `.env` và xác nhận Agent chạy mượt mà trên LLM API thật (OpenAI-compatible Fireworks AI: `deepseek-v4-flash-0731`).
 - **Tổng số Test Cases đã chạy thành công:** 5 / 5 test cases (chạy bằng `python src/app.py --all` với LLM API thật).
 - **Số lượt gọi Tool qua MCP Server chính xác:** 5 lượt (TC02: `academic_query`, TC03: `schedule_appointment`, TC04: `academic_query` → `schedule_appointment`, TC05: `academic_query` trả `NOT_FOUND`).
-- **Kết quả đẩy Repo nộp bài:** [ ] Đã Commit và Push mã nguồn thành công lên GitHub cá nhân.
+- **Kết quả đẩy Repo nộp bài:** [x] Đã Commit và Push mã nguồn thành công lên GitHub cá nhân (https://github.com/nghon4maeri/K4A-Day03-NguyenHoNam-2A202602788).
 
 ---
 
