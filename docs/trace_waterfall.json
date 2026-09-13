@@ -4,8 +4,8 @@
     "query": "Chào bạn, bạn có thể giới thiệu quy chế học vụ cơ bản của Đại học VinUni không?",
     "action_type": "FINAL_ANSWER",
     "thought": "OpenAI phản hồi trực tiếp bằng văn bản (không cần gọi công cụ).",
-    "output": "Chào bạn! Rất vui được hỗ trợ. Dưới đây là tổng quan về một số quy chế học vụ cơ bản của Đại học VinUni mà mình có thể giới thiệu:\n\n## 🎓 Quy chế học vụ cơ bản tại VinUni\n\n**1. Hệ thống tín chỉ & khối lượng học tập**\n- VinUni áp dụng hệ thống đào tạo theo tín chỉ.\n- Mỗi năm học thường gồm 2 học kỳ chính và có thể có học kỳ hè.\n- Sinh viên cần tích lũy đủ số tín chỉ theo chương trình đào tạo của ngành để tốt nghiệp.\n\n**2. Thang điểm & đánh giá**\n- Thang điểm 4.0 (thang điểm chữ A, B, C, D, F) được sử dụng phổ biến.\n- Điểm trung bình tích lũy (GPA - Cumulative GPA) được tính để xét học lực, học bổng và điều kiện tốt nghiệp.\n\n**3. Điều kiện tốt nghiệp**\n- Hoàn thành toàn bộ tín chỉ theo chương trình.\n- Đạt GPA tối thiểu theo quy định của từng chương trình.\n- Đáp ứng các yêu cầu đầu ra ngoại ngữ và các chuẩn đầu ra khác.\n\n**4. Quy định về học lại, học cải thiện**\n- Các môn đạt điểm dưới ngưỡng quy định sẽ phải học lại.\n- Sinh viên có thể đăng ký học cải thiện điểm trong một số trường hợp nhất định theo quy chế.\n\n**5. Rèn luyện đạo đức & kỷ luật**\n- Sinh viên phải tuân thủ nội quy, quy chế học tập và quy tắc ứng xử của Nhà trường.\n\n---\n\n⚠️ **Lưu ý:** Các thông tin trên chỉ là khái quát chung. Quy chế chi tiết có thể thay đổi theo từng năm học và từng chương trình đào tạo cụ thể (Khoa Khoa học Sức khỏe, Kinh doanh, Kỹ thuật, Khoa học & Nghệ thuật).\n\nNếu bạn muốn **tra cứu thông tin học vụ cá nhân** (điểm số, GPA, hồ sơ) bằng mã sinh viên, hoặc **đặt lịch hẹn tư vấn** với Cố vấn học tập để được tư vấn chi tiết hơn, mình sẵn sàng hỗ trợ nhé! Bạn có thể cho mình biết thêm thông tin cụ thể nào bạn quan tâm không? 😊",
-    "latency_ms": 8629.82
+    "output": "Chào bạn! Rất vui được hỗ trợ bạn. Dưới đây là một số quy chế học vụ cơ bản của Đại học VinUni:\n\n## 🎓 Quy chế học vụ cơ bản tại VinUni\n\n### 1. Hệ thống tín chỉ (Credit System)\n- Chương trình đào tạo được xây dựng theo hệ thống tín chỉ.\n- Mỗi khóa học được tính theo số tín chỉ tương ứng, phản ánh khối lượng học tập.\n\n### 2. Đánh giá và thang điểm (Grading)\n- VinUni sử dụng thang điểm chữ (A, B, C, D, F) kết hợp với thang điểm 4.0.\n- Điểm trung bình tích lũy (GPA - Cumulative GPA) được dùng để đánh giá kết quả học tập tổng thể.\n\n### 3. Quy định về học phần (Course Requirements)\n- Sinh viên cần hoàn thành đủ số tín chỉ bắt buộc của chương trình.\n- Có các môn học tiên quyết (prerequisites) phải hoàn thành trước khi đăng ký môn tiếp theo.\n\n### 4. Chuẩn đầu ra (Learning Outcomes)\n- Chương trình hướng tới các chuẩn đầu ra về kiến thức, kỹ năng và thái độ theo chuẩn quốc tế.\n\n---\n\n### 💡 Lưu ý\nĐể có thông tin chi tiết, chính xác nhất **theo từng chương trình cụ thể và quy chế hiện hành**, bạn nên tham khảo:\n- **Sổ tay sinh viên** chính thức của VinUni\n- Cán bộ **Cố vấn học tập** của bạn\n\nNếu bạn cần tôi **tra cứu hồ sơ học vụ cá nhân** (điểm số, tiến độ học tập) hoặc **đặt lịch hẹn tư vấn** với Cố vấn học tập, vui lòng cung cấp **mã sinh viên** của bạn để tôi hỗ trợ nhé! 😊\n\nBạn còn thắc mắc cụ thể nào về quy chế học vụ không?",
+    "latency_ms": 7259.51
   },
   {
     "step": 1,
@@ -27,15 +27,15 @@
         "advisor": "PGS.TS Nguyễn Văn A"
       }
     },
-    "latency_ms": 1427.83
+    "latency_ms": 3609.18
   },
   {
     "step": 2,
     "query": "Hãy tra cứu thông tin học vụ của sinh viên SV2026001.",
     "action_type": "FINAL_ANSWER",
     "thought": "OpenAI phản hồi trực tiếp bằng văn bản (không cần gọi công cụ).",
-    "output": "Em đã tra cứu thành công thông tin học vụ của sinh viên **SV2026001**. Dưới đây là kết quả chi tiết:\n\n📋 **Thông tin sinh viên**\n- 👤 **Họ và tên:** Nguyễn Văn An\n- 🎓 **Lớp:** AI-K4\n- 📊 **GPA:** 3.85\n- 📧 **Email:** an.nv@vinuni.edu.vn\n- ✅ **Trạng thái:** Đang học\n- 🧑‍🏫 **Cố vấn học tập:** PGS.TS Nguyễn Văn A\n\nEm có cần hỗ trợ thêm gì không? Ví dụ như xem thêm thông tin chi tiết khác hoặc đặt lịch hẹn tư vấn với cố vấn học tập PGS.TS Nguyễn Văn A nhé!",
-    "latency_ms": 2663.04
+    "output": "Tôi đã tra cứu xong thông tin học vụ của sinh viên **SV2026001**. Dưới đây là kết quả:\n\n## 📋 Thông tin học vụ sinh viên\n\n| Thông tin | Chi tiết |\n|-----------|----------|\n| **Họ và tên** | Nguyễn Văn An |\n| **Lớp** | AI-K4 |\n| **GPA** | 3.85 |\n| **Email** | an.nv@vinuni.edu.vn |\n| **Trạng thái** | Đang học |\n| **Cố vấn học tập** | PGS.TS Nguyễn Văn A |\n\nSinh viên **Nguyễn Văn An** đang theo học lớp **AI-K4** với GPA **3.85** — một kết quả học tập rất tốt. Hiện trạng thái của bạn là **Đang học**.\n\nNếu bạn cần hỗ trợ thêm (ví dụ: đặt lịch hẹn tư vấn với cố vấn học tập), hãy cho tôi biết nhé! 😊",
+    "latency_ms": 2863.11
   },
   {
     "step": 1,
@@ -55,15 +55,15 @@
       "advisor": "PGS.TS Nguyễn Văn A",
       "message": "Đặt lịch thành công cho sinh viên SV2026001 với PGS.TS Nguyễn Văn A vào lúc 14:00 15/09/2026."
     },
-    "latency_ms": 2054.55
+    "latency_ms": 3161.34
   },
   {
     "step": 2,
     "query": "Tôi cần đặt lịch hẹn tư vấn học vụ cho sinh viên SV2026001 với PGS.TS Nguyễn Văn A vào lúc 14:00 ngày 15/09/2026.",
     "action_type": "FINAL_ANSWER",
     "thought": "OpenAI phản hồi trực tiếp bằng văn bản (không cần gọi công cụ).",
-    "output": "Tôi đã đặt lịch hẹn tư vấn học vụ thành công cho bạn! Dưới đây là thông tin chi tiết:\n\n✅ **Xác nhận đặt lịch thành công**\n- **Mã đặt lịch:** `BK-SV2026001-99`\n- **Mã sinh viên:** SV2026001\n- **Cố vấn học tập:** PGS.TS Nguyễn Văn A\n- **Thời gian:** 14:00 ngày 15/09/2026\n\nBuổi tư vấn của bạn đã được ghi nhận. Nếu bạn cần thay đổi thời gian, hủy lịch, hoặc có thêm câu hỏi nào khác về học vụ, đừng ngần ngại cho tôi biết nhé! 😊",
-    "latency_ms": 2285.22
+    "output": "Đã đặt lịch hẹn tư vấn học vụ thành công! 🎉\n\nDưới đây là chi tiết lịch hẹn của bạn:\n\n| Thông tin | Chi tiết |\n|-----------|----------|\n| **Mã sinh viên** | SV2026001 |\n| **Cố vấn học tập** | PGS.TS Nguyễn Văn A |\n| **Thời gian** | 14:00 ngày 15/09/2026 |\n| **Mã đặt lịch** | BK-SV2026001-99 |\n| **Trạng thái** | ✅ Thành công |\n\nLịch hẹn của bạn đã được xác nhận. Nếu bạn cần điều chỉnh thời gian, huỷ lịch hoặc tra cứu thêm thông tin học vụ, vui lòng cho tôi biết nhé!",
+    "latency_ms": 2206.39
   },
   {
     "step": 1,
@@ -85,7 +85,7 @@
         "advisor": "TS. Lê Thị B"
       }
     },
-    "latency_ms": 2825.68
+    "latency_ms": 2660.1
   },
   {
     "step": 2,
@@ -105,15 +105,15 @@
       "advisor": "TS. Lê Thị B",
       "message": "Đặt lịch thành công cho sinh viên SV2026002 với TS. Lê Thị B vào lúc 09:30 16/09/2026."
     },
-    "latency_ms": 5040.82
+    "latency_ms": 3056.39
   },
   {
     "step": 3,
     "query": "Hãy tra cứu thông tin của sinh viên SV2026002 để biết cố vấn học tập của bạn ấy, sau đó đặt lịch hẹn tư vấn với đúng cố vấn đó vào lúc 09:30 ngày 16/09/2026.",
     "action_type": "FINAL_ANSWER",
     "thought": "OpenAI phản hồi trực tiếp bằng văn bản (không cần gọi công cụ).",
-    "output": "Tôi đã hoàn thành cả hai yêu cầu của bạn:\n\n**1. Tra cứu thông tin sinh viên SV2026002:**\n- **Họ tên:** Trần Thị Bình\n- **Lớp:** AI-K4\n- **GPA:** 3.6\n- **Email:** binh.tt@vinuni.edu.vn\n- **Tình trạng:** Đang học\n- **Cố vấn học tập:** TS. Lê Thị B\n\n**2. Đặt lịch hẹn tư vấn:**\n- ✅ **Mã đặt lịch:** BK-SV2026002-99\n- **Sinh viên:** SV2026002 (Trần Thị Bình)\n- **Cố vấn:** TS. Lê Thị B\n- **Thời gian:** 09:30 ngày 16/09/2026\n- **Trạng thái:** Đặt lịch thành công\n\nLịch hẹn tư vấn đã được xác nhận thành công với đúng cố vấn học tập (TS. Lê Thị B) của sinh viên vào thời gian đã yêu cầu. Bạn có thể thông báo kết quả này cho sinh viên Trần Thị Bình nhé!",
-    "latency_ms": 3194.06
+    "output": "Tôi đã hoàn thành cả hai yêu cầu cho sinh viên **SV2026002**:\n\n**1. Tra cứu thông tin sinh viên:**\n- Họ tên: **Trần Thị Bình**\n- Lớp: AI-K4\n- GPA: 3.6\n- Email: binh.tt@vinuni.edu.vn\n- Trạng thái: Đang học\n- **Cố vấn học tập: TS. Lê Thị B**\n\n**2. Đặt lịch hẹn tư vấn:**\n- ✅ Đặt lịch thành công với **TS. Lê Thị B** (đúng cố vấn học tập của sinh viên)\n- Thời gian: **09:30 ngày 16/09/2026**\n- Mã đặt lịch: **BK-SV2026002-99**\n\nLịch hẹn tư vấn học vụ của bạn Trần Thị Bình đã được xác nhận thành công với đúng cố vấn học tập của mình. Bạn có cần hỗ trợ thêm gì không?",
+    "latency_ms": 2796.34
   },
   {
     "step": 1,
@@ -127,14 +127,14 @@
       "status": "NOT_FOUND",
       "message": "Không tìm thấy dữ liệu sinh viên có mã 'SV9999999'"
     },
-    "latency_ms": 7076.47
+    "latency_ms": 2031.78
   },
   {
     "step": 2,
     "query": "Hãy tra cứu thông tin học vụ của sinh viên SV9999999.",
     "action_type": "FINAL_ANSWER",
     "thought": "OpenAI phản hồi trực tiếp bằng văn bản (không cần gọi công cụ).",
-    "output": "Tôi đã tra cứu hồ sơ học vụ cho mã sinh viên **SV9999999**, tuy nhiên hệ thống không tìm thấy dữ liệu nào tương ứng.\n\n**Kết quả tra cứu:**\n- **Trạng thái:** Không tìm thấy (NOT_FOUND)\n- **Thông báo:** Không tìm thấy dữ liệu sinh viên có mã 'SV9999999'\n\n**Gợi ý:**\n1. Vui lòng kiểm tra lại mã sinh viên — có thể mã đã bị nhập sai (ví dụ: thiếu/sai ký tự).\n2. Hãy đối chiếu với thẻ sinh viên hoặc giấy tờ liên quan để xác nhận mã chính xác.\n3. Nếu bạn nhập đúng mã nhưng vẫn không có kết quả, có thể bạn chưa nằm trong hệ thống dữ liệu VinUni.\n\nBạn có thể cung cấp lại mã sinh viên chính xác để tôi hỗ trợ tra cứu tiếp nhé!",
-    "latency_ms": 3075.36
+    "output": "Tôi đã tra cứu thông tin học vụ cho mã sinh viên **SV9999999**, tuy nhiên hệ thống trả về kết quả như sau:\n\n> **Không tìm thấy dữ liệu sinh viên có mã 'SV9999999'** (Status: NOT_FOUND)\n\nĐiều này có thể do:\n- Mã sinh viên bạn cung cấp chưa chính xác hoặc bị sai chính tả.\n- Mã sinh viên không tồn tại trong hệ thống học vụ của VinUni.\n\nBạn vui lòng kiểm tra lại mã sinh viên của mình và cung cấp lại để tôi có thể tra cứu chính xác nhé. Nếu bạn cần hỗ trợ thêm, đừng ngần ngại cho tôi biết!",
+    "latency_ms": 8393.71
   }
 ]
